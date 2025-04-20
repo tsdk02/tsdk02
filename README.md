@@ -51,7 +51,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsdk02&show_icons=true&locale=en&layout=compact" alt="tsdk02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsdk02&show_icons=true&locale=en" alt="tsdk02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsdk02&" alt="tsdk02" /></p>
-### 🗓️ Contribution Graph
-[![Sandeep's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsdk02&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
