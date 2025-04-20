@@ -57,3 +57,9 @@
   <img src="https://ghchart.rshah.org/tsdk02" alt="Sandeep's Github chart" />
 </a>
 
+### 📊 GitHub Contribution Heatmap
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=tsdk02&theme=github-dark&area=true&hide_border=true" alt="GitHub Contribution Grid" />
+</p>
+
+
